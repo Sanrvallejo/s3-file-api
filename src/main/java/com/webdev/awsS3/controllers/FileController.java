@@ -19,7 +19,7 @@ public class FileController {
             @RequestParam String bucket,
             @RequestParam String folder
     ) {
-        return fileService.listFilesInFolder("my-api-s3-files","images");
+        return fileService.listFilesInFolder(bucket,folder);
     }
 }
 
