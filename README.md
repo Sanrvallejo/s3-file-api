@@ -2,6 +2,9 @@
 
 Este proyecto es una API backend sencilla desarrollada con Spring Boot cuyo propósito principal es **aprender y practicar la integración con Amazon S3**, el servicio de almacenamiento de archivos de AWS.
 
+Este frontend se conecta con el siguiente backend:  
+👉 [aws-s3-file-client](https://github.com/Sanrvallejo/s3-file-api-client.git)
+
 ## 🎯 Objetivo
 
 Explorar y entender cómo:
